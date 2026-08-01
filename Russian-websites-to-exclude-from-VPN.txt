@@ -559,7 +559,6 @@ rutube.ru
 rzd-bonus.ru
 rzd-partner.ru
 rzd.ru
-rособрнадзор.рф
 s7.ru
 samokat.ru
 samsu.ru
@@ -745,9 +744,6 @@ zen.yandex.ru
 zenit.bank
 zenit.ru
 zvuk.com
-минздрав.рф
-минобрнауки.рф
-минтруд.рф
 fsin.ru
 sledcom.ru
 fstek.ru
